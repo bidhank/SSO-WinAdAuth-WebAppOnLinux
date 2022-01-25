@@ -1,4 +1,4 @@
-# WinAdAuth-WebAppOnLinux
+# SSO-WinAdAuth-WebAppOnLinux
 This is a springboot app which provides SSO functionality. It authenticates with Windows Active Directory Server. Webapp (Tomcat) is hosted on Linux (CentOs).
 
 Please follow these steps carefully
